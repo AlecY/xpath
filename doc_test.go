@@ -3,7 +3,7 @@ package xpath_test
 import (
 	"fmt"
 
-	"github.com/antchfx/xpath"
+	"github.com/AlecY/xpath"
 )
 
 // XPath package example.
